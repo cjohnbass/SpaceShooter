@@ -1,0 +1,4 @@
+Phase 3
+In this phase of the project I implemented diffuse point light and ambient lighting. I also added
+a sky box to the solar system of one texture to 6 panels. In addition to the lighting and
+the sky box I added different colors to the planets so they are easier to distinguish.
